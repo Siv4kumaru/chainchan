@@ -3,9 +3,9 @@
 
 This project is part of a hackathon submission for the **Syngenta AI Agent Hackathon** held at **Paradox 2025, IITM BS**.
 
-🔗 **Problem Statement**: [View PDF](https://drive.google.com/file/d/1a9gaOJzXKhg4t05ra1uOhvWmn1EM8uAd/view)
-🔗 **Demo Video**: [View Video][(https://drive.google.com/file/d/1a9gaOJzXKhg4t05ra1uOhvWmn1EM8uAd/view]
-🔗 **Live Demo**: tbd
+🔗 **Problem Statement**: [View PDF](https://drive.google.com/file/d/1a9gaOJzXKhg4t05ra1uOhvWmn1EM8uAd/view)  
+🔗 **Demo Video**: [View Video](https://drive.google.com/file/d/1a9gaOJzXKhg4t05ra1uOhvWmn1EM8uAd/view)  
+🔗 **Live Demo**: soon.
 
 ---
 
