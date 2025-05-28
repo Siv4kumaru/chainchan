@@ -1,26 +1,31 @@
+# PHP / Laravel specific
 Chain-Chan-UI/.phpunit.cache
-Chain-Chan-UI/node_modules
-Chain-Chan-UI/public/build
-Chain-Chan-UI/public/hot
-Chain-Chan-UI/public/storage
-Chain-Chan-UI/storage/*.key
-Chain-Chan-UI/storage/pail
-Chain-Chan-UI/vendor
-Chain-Chan-UI/.env
-Chain-Chan-UI/.env.backup
-Chain-Chan-UI/.env.production
-Chain-Chan-UI/.phpactor.json
 Chain-Chan-UI/.phpunit.result.cache
-Chain-Chan-UI/Homestead.json
-Chain-Chan-UI/Homestead.yaml
+Chain-Chan-UI/.phpactor.json
+Chain-Chan-UI/vendor/                     # Composer dependencies
+Chain-Chan-UI/node_modules/              # NPM/Yarn dependencies
+Chain-Chan-UI/public/build/              # Frontend build output
+Chain-Chan-UI/public/hot                 # Hot module replacement file
+Chain-Chan-UI/public/storage/            # Symlink to storage
+Chain-Chan-UI/storage/*.key              # SSL or app keys
+Chain-Chan-UI/storage/pail/              # Custom storage folder (e.g., logs or temp)
+Chain-Chan-UI/.env*                      # Environment config files (any variation)
+Chain-Chan-UI/auth.json                  # Auth tokens or secrets
+
+# IDE / Editor config
+Chain-Chan-UI/.fleet/
+Chain-Chan-UI/.idea/
+Chain-Chan-UI/.nova/
+Chain-Chan-UI/.vscode/
+Chain-Chan-UI/.zed/
+
+# Misc
 Chain-Chan-UI/npm-debug.log
 Chain-Chan-UI/yarn-error.log
-Chain-Chan-UI/auth.json
-Chain-Chan-UI/.fleet
-Chain-Chan-UI/.idea
-Chain-Chan-UI/.nova
-Chain-Chan-UI/.vscode
-Chain-Chan-UI/.zed
-python_api/.env
-python_api/venv
-python_api/__pycache__
+Chain-Chan-UI/Homestead.json
+Chain-Chan-UI/Homestead.yaml
+
+# Python API specific
+python_api/.env                          # Python env config
+python_api/venv/                         # Virtual environment
+python_api/__pycache__/                 # Compiled Python files
