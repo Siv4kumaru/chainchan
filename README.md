@@ -3,6 +3,8 @@
 
 This project is part of a hackathon submission for the **Syngenta AI Agent Hackathon** held at **Paradox 2025, IITM BS**.
 
+An intelligent industry grade knowledge retriving guide with role based access control   
+
 🔗 **Problem Statement**: [View PDF](https://drive.google.com/file/d/1a9gaOJzXKhg4t05ra1uOhvWmn1EM8uAd/view)  
 🔗 **Demo Video**: [View Video](https://drive.google.com/file/d/1a9gaOJzXKhg4t05ra1uOhvWmn1EM8uAd/view)  
 🔗 **Live Demo**: soon.
