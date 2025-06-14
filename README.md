@@ -5,6 +5,9 @@ This project is part of a hackathon submission for the **Syngenta AI Agent Hacka
 
 An intelligent industry grade knowledge retriving guide with role based access control   
 
+![image](https://github.com/user-attachments/assets/3be079b2-6174-4e90-8f87-cee07e5e8652)
+
+
 🔗 **Problem Statement**: [View PDF](https://drive.google.com/file/d/1a9gaOJzXKhg4t05ra1uOhvWmn1EM8uAd/view)  
 🔗 **Demo Video**: [View Video](https://drive.google.com/file/d/1a9gaOJzXKhg4t05ra1uOhvWmn1EM8uAd/view)  
 🔗 **Live Demo**: soon.
