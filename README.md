@@ -8,8 +8,8 @@ An intelligent industry grade knowledge retriving guide with role based access c
 ![image](https://github.com/user-attachments/assets/3be079b2-6174-4e90-8f87-cee07e5e8652)
 
 
+🔗 **Demo Video**: [View Video](https://drive.google.com/file/d/1jWElGNz5UJZu725l0eCeE8LYizO4Lb0w/view?usp=sharing)  
 🔗 **Problem Statement**: [View PDF](https://drive.google.com/file/d/1a9gaOJzXKhg4t05ra1uOhvWmn1EM8uAd/view)  
-🔗 **Demo Video**: [View Video](https://drive.google.com/file/d/1a9gaOJzXKhg4t05ra1uOhvWmn1EM8uAd/view)  
 🔗 **Live Demo**: soon.
 
 ---
