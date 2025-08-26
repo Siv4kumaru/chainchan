@@ -3,7 +3,7 @@
 
 This project is part of a hackathon submission for the **Syngenta AI Agent Hackathon** held at **Paradox 2025, IITM BS**.
 
-An intelligent industry grade knowledge retriving guide with role based access control   
+The goal of Chain_Chan was to design an enterprise-grade knowledge assistant capable of secure, role-aware retrieval and conversation over PDF documents. Traditional RAG systems provide semantic search, but most lack access control at the document or user-role level. This project aimed to solve that gap, particularly relevant for enterprises handling sensitive knowledge bases (legal, pharma, financial, etc).
 
 ![image](https://github.com/user-attachments/assets/3be079b2-6174-4e90-8f87-cee07e5e8652)
 
